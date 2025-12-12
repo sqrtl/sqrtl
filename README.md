@@ -34,7 +34,7 @@ Ethereum • Smart Contracts • DeFi protocols
 
 ## Stuff I've built
 
-**[ABLEfid](https://github.com/your-friends-repo/ABLEfid)** - ETHGlobal Hackathon 2025  
+**[ABLEfid](https://butterfliesinspacejoe.github.io/ABLEfid/)** - ETHGlobal Hackathon 2025  
 Decentralized fiduciary platform built in 36 hours with 3 other caffeine-addicted devs. Smart contracts, token swapping, the whole deal. Traditional finance has competition now.
 
 **Duo Provisioning Automation** - Montclair State  
@@ -76,3 +76,4 @@ Writing anime philosophy (Attack on Titan is basically Nietzsche, prove me wrong
 
 
 *first-gen american building tech while planning to (temporarily) leave america and travel. the irony tastes like freedom.* 🇺🇸 🇧🇷
+
