@@ -64,14 +64,15 @@ Speak English, Spanish, Portuguese (Brasil here I come)
 
 ## when I'm not coding
 
-Writing anime philosophy (Attack on Titan is basically Nietzsche, fight me) • gaming • consuming unreasonable amounts of anime • thinking about that YouTube channel I'll definitely start someday
+Writing anime philosophy (Attack on Titan is basically Nietzsche, prove me wrong) • gaming • consuming unreasonable amounts of anime • Reading none of the tens of business books I've bought thinking I'd make money skimming them • thinking about that YouTube channel I'll definitely start someday
 
 ---
 
 ## find me
 
-[portfolio](https://hatakesolutions.com) • [linkedin](https://www.linkedin.com/in/tylersilvait) • email me for collabs or to argue about anime
+[Portfolio](https://hatakesolutions.com) • [LinkedIn](https://www.linkedin.com/in/tylersilvait) • email me for collabs or to argue about anime
 
 ---
 
-*first-gen american building tech while planning to (temporarily) leave america. the irony tastes like freedom.* 🇺🇸 🇧🇷
+
+*first-gen american building tech while planning to (temporarily) leave america and travel. the irony tastes like freedom.* 🇺🇸 🇧🇷
